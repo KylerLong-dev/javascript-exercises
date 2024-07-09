@@ -1,4 +1,6 @@
-const reverseString = function() {
+const reverseString = function(greeting) {
+    let greetingArray = [greeting];
+    greetingArray.
 
 };
 
